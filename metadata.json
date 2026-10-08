@@ -1,0 +1,6 @@
+{
+  "name": "WakeGroove",
+  "description": "An energetic alarm app that requires you to snap an awake selfie and dance to prove you are fully awake before turning off.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
